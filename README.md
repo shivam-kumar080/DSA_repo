@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shivam-kumar080/DSA_repo/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/shivam-kumar080/DSA_repo/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/shivam-kumar080/DSA_repo/tree/master/0322-coin-change) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/shivam-kumar080/DSA_repo/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3660-jump-game-ix](https://github.com/shivam-kumar080/DSA_repo/tree/master/3660-jump-game-ix) |
 ## Binary Search
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/shivam-kumar080/DSA_repo/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/shivam-kumar080/DSA_repo/tree/master/0322-coin-change) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/shivam-kumar080/DSA_repo/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
 |  |
 | ------- |
@@ -40,4 +42,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shivam-kumar080/DSA_repo/tree/master/0200-number-of-islands) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/shivam-kumar080/DSA_repo/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
