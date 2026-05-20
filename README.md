@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shivam-kumar080/DSA_repo/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/shivam-kumar080/DSA_repo/tree/master/0322-coin-change) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivam-kumar080/DSA_repo/tree/master/1091-shortest-path-in-binary-matrix) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shivam-kumar080/DSA_repo/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3660-jump-game-ix](https://github.com/shivam-kumar080/DSA_repo/tree/master/3660-jump-game-ix) |
 ## Binary Search
 |  |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivam-kumar080/DSA_repo/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shivam-kumar080/DSA_repo/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shivam-kumar080/DSA_repo/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
