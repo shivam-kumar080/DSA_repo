@@ -61,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shivam-kumar080/DSA_repo/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/shivam-kumar080/DSA_repo/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
