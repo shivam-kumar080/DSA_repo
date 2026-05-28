@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shivam-kumar080/DSA_repo/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/shivam-kumar080/DSA_repo/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/shivam-kumar080/DSA_repo/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/shivam-kumar080/DSA_repo/tree/master/0063-unique-paths-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivam-kumar080/DSA_repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shivam-kumar080/DSA_repo/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/shivam-kumar080/DSA_repo/tree/master/0200-number-of-islands) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/shivam-kumar080/DSA_repo/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/shivam-kumar080/DSA_repo/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/shivam-kumar080/DSA_repo/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/shivam-kumar080/DSA_repo/tree/master/0063-unique-paths-ii) |
 | [0322-coin-change](https://github.com/shivam-kumar080/DSA_repo/tree/master/0322-coin-change) |
 | [3660-jump-game-ix](https://github.com/shivam-kumar080/DSA_repo/tree/master/3660-jump-game-ix) |
 ## Depth-First Search
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/shivam-kumar080/DSA_repo/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/shivam-kumar080/DSA_repo/tree/master/0200-number-of-islands) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivam-kumar080/DSA_repo/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Two Pointers
