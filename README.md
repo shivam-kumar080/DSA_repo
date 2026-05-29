@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/shivam-kumar080/DSA_repo/tree/master/0322-coin-change) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivam-kumar080/DSA_repo/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shivam-kumar080/DSA_repo/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shivam-kumar080/DSA_repo/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3660-jump-game-ix](https://github.com/shivam-kumar080/DSA_repo/tree/master/3660-jump-game-ix) |
 ## Binary Search
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/shivam-kumar080/DSA_repo/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/shivam-kumar080/DSA_repo/tree/master/0062-unique-paths) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shivam-kumar080/DSA_repo/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## String
 |  |
 | ------- |
