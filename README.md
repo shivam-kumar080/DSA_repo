@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivam-kumar080/DSA_repo/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/shivam-kumar080/DSA_repo/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/shivam-kumar080/DSA_repo/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/shivam-kumar080/DSA_repo/tree/master/0062-unique-paths) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivam-kumar080/DSA_repo/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/shivam-kumar080/DSA_repo/tree/master/0011-container-with-most-water) |
 ## Greedy
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam-kumar080/DSA_repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/shivam-kumar080/DSA_repo/tree/master/0005-longest-palindromic-substring) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shivam-kumar080/DSA_repo/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Divide and Conquer
 |  |
