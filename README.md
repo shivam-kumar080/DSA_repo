@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shivam-kumar080/DSA_repo/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/shivam-kumar080/DSA_repo/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivam-kumar080/DSA_repo/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/shivam-kumar080/DSA_repo/tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivam-kumar080/DSA_repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shivam-kumar080/DSA_repo/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/shivam-kumar080/DSA_repo/tree/master/0200-number-of-islands) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/shivam-kumar080/DSA_repo/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivam-kumar080/DSA_repo/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/shivam-kumar080/DSA_repo/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/shivam-kumar080/DSA_repo/tree/master/0200-number-of-islands) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivam-kumar080/DSA_repo/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Two Pointers
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam-kumar080/DSA_repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/shivam-kumar080/DSA_repo/tree/master/0073-set-matrix-zeroes) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shivam-kumar080/DSA_repo/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shivam-kumar080/DSA_repo/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Bit Manipulation
