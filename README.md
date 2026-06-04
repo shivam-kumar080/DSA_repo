@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/shivam-kumar080/DSA_repo/tree/master/0118-pascals-triangle) |
 | [0322-coin-change](https://github.com/shivam-kumar080/DSA_repo/tree/master/0322-coin-change) |
 | [3660-jump-game-ix](https://github.com/shivam-kumar080/DSA_repo/tree/master/3660-jump-game-ix) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shivam-kumar080/DSA_repo/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/shivam-kumar080/DSA_repo/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/shivam-kumar080/DSA_repo/tree/master/0062-unique-paths) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shivam-kumar080/DSA_repo/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shivam-kumar080/DSA_repo/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String
 |  |
 | ------- |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam-kumar080/DSA_repo/tree/master/0003-longest-substring-without-repeating-characters) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shivam-kumar080/DSA_repo/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
