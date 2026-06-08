@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shivam-kumar080/DSA_repo/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/shivam-kumar080/DSA_repo/tree/master/0322-coin-change) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivam-kumar080/DSA_repo/tree/master/1091-shortest-path-in-binary-matrix) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shivam-kumar080/DSA_repo/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/shivam-kumar080/DSA_repo/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shivam-kumar080/DSA_repo/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shivam-kumar080/DSA_repo/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivam-kumar080/DSA_repo/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/shivam-kumar080/DSA_repo/tree/master/0011-container-with-most-water) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shivam-kumar080/DSA_repo/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Greedy
 |  |
 | ------- |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/shivam-kumar080/DSA_repo/tree/master/2574-left-and-right-sum-differences) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shivam-kumar080/DSA_repo/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
