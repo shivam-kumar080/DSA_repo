@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shivam-kumar080/DSA_repo/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shivam-kumar080/DSA_repo/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3660-jump-game-ix](https://github.com/shivam-kumar080/DSA_repo/tree/master/3660-jump-game-ix) |
+| [3838-weighted-word-mapping](https://github.com/shivam-kumar080/DSA_repo/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam-kumar080/DSA_repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/shivam-kumar080/DSA_repo/tree/master/0005-longest-palindromic-substring) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shivam-kumar080/DSA_repo/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3838-weighted-word-mapping](https://github.com/shivam-kumar080/DSA_repo/tree/master/3838-weighted-word-mapping) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -126,4 +128,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shivam-kumar080/DSA_repo/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3838-weighted-word-mapping](https://github.com/shivam-kumar080/DSA_repo/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
